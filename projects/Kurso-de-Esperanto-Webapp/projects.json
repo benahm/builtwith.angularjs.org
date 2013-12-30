@@ -1,0 +1,17 @@
+{
+  "name": "Kusro de Esperanto Webapp",  // will be displayed under the screenshot
+  "thumb": "Kurso-de-Esperanto-Webapp/thumb.png", // path to the image (omit the projects/ prefix)
+  "desc": "Web application to learn the Esperanto language", // One or two sentences
+  "url": "http://codelabs.fr/app/", // url to your app
+  "info": "https://github.com/benahm/Kurso-de-Esperanto-webapp", // url to app announcement or background
+  "src": "https://github.com/benahm/Kurso-de-Esperanto-webapp", // (optional) Url to your source repository
+  "submitter": "benahm", // your github username
+  "submissionDate": "2012-12-29", // current date in ISO format
+  "tags": [
+    "Production", 
+    "Game",
+    "jQuery", // do you use jQuery?
+    "Open Source"// tag open source projects
+    ... // others?
+  ]
+}
